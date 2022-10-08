@@ -16,12 +16,12 @@ module.exports = {
 Install the dependencies
 
 ```sh
-$ npm install
+npm install
 ```
 
 ### Run
 To serve in the browser
 
 ```sh
-$ npm start
+npm start
 ```
