@@ -13,7 +13,7 @@ module.exports = {
 
 ### Installation
 
-Install the dependencies
+Install dependencies
 
 ```sh
 npm install
